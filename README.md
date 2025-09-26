@@ -67,4 +67,4 @@ Spacebar to start the game, left and right directional arrow keys for movement.
 [Elemental Breaker SD-1 Lab Project](https://youtu.be/C0A77C6Fk_g)
 
 ## Project Report
-[Group8 Project Final Report CSE 1200](https://drive.google.com/drive/u/1/my-drive](https://docs.google.com/document/d/1NGsbhluSWHwunAgcGKGqbjvpsrCL2usn/edit?usp=drive_link&ouid=114792122558511338648&rtpof=true&sd=true))
+[Group8 Project Final Report CSE 1200](https://docs.google.com/document/d/1NGsbhluSWHwunAgcGKGqbjvpsrCL2usn/edit?usp=drive_link&ouid=114792122558511338648&rtpof=true&sd=true)
