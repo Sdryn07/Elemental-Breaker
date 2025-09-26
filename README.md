@@ -27,7 +27,7 @@ Genre : 2D, casual, arcade
 Make sure you have the following installed:
 - **Visual Studio 2013**
 - **MinGW Compiler** (if needed)
-- **iGraphics Library** (not included in this repository)
+- **iGraphics Library** (included in this repository)
 
 
 Open the project in Visual Studio 2013
